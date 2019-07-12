@@ -7,9 +7,8 @@ subheading: A Gatsby Test Site
 mainpitch:
   title: Lorem Ipsum
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi augue mi,
-    dignissim sed efficitur tincidunt, pharetra at sapien. Phasellus felis
-    felis, accumsan eget odio et, tempor imperdiet diam. 
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Edited via
+    netlify's online cms admin ui.
 description: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
 intro:
   blurbs:
