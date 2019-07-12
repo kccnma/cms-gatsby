@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: KCC CM
 image: /img/home-jumbotron.jpg
 heading: KCC CM
 subheading: A Gatsby Test Site
