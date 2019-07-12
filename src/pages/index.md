@@ -2,69 +2,68 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: KCC CM
+subheading: A Gatsby Test Site
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Lorem Ipsum
+  description: >-
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi augue mi,
+    dignissim sed efficitur tincidunt, pharetra at sapien. Phasellus felis
+    felis, accumsan eget odio et, tempor imperdiet diam. 
+description: ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
+        rhoncus vestibulum. Duis consequat, arcu eu venenatis rhoncus, nunc
+        lectus condimentum sem, non pharetra nisl lorem eu ante. Nam viverra est
+        quam, id posuere lacus gravida sed. Cras semper tortor ut est semper
+        varius.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
+        rhoncus vestibulum. Duis consequat, arcu eu venenatis rhoncus, nunc
+        lectus condimentum sem, non pharetra nisl lorem eu ante. Nam viverra est
+        quam, id posuere lacus gravida sed. Cras semper tortor ut est semper
+        varius.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
+        rhoncus vestibulum. Duis consequat, arcu eu venenatis rhoncus, nunc
+        lectus condimentum sem, non pharetra nisl lorem eu ante. Nam viverra est
+        quam, id posuere lacus gravida sed. Cras semper tortor ut est semper
+        varius.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+      text: >-
+        Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
+        rhoncus vestibulum. Duis consequat, arcu eu venenatis rhoncus, nunc
+        lectus condimentum sem, non pharetra nisl lorem eu ante. Nam viverra est
+        quam, id posuere lacus gravida sed. Cras semper tortor ut est semper
+        varius.
+  heading: What is this?
+  description: >-
+    A test static site using netlify cms and gatsby. Aliquam id lacus mattis,
+    luctus lacus eget, ornare lacus. Lorem ipsum dolor sit amet, consectetur
+    adipiscing elit. In eget volutpat est, eu porttitor tellus. Pellentesque
+    habitant morbi tristique senectus et netus et malesuada fames ac turpis
+    egestas. Nullam viverra in tellus eget feugiat. Duis ultricies mollis velit
+    nec porttitor. 
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'uis porta a justo sit amet aliquam. '
+  description: >-
+    roin maximus malesuada quam in maximus. Aliquam eu mauris egestas tellus
+    commodo elementum. Aenean interdum rutrum elementum. Pellentesque vel luctus
+    mi, tempor porttitor mi. Nulla eget erat consectetur, accumsan massa ac,
+    commodo risus. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: 'Donec pharetra tellus sollicitudin eleifend ornare. '
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Cras placerat dolor vitae
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: In finibus velit commodo.
     image: /img/products-grid1.jpg
 ---
+
