@@ -3,7 +3,7 @@ templateKey: index-page
 title: KCC CM
 image: /img/home-jumbotron.jpg
 heading: KCC CM
-subheading: A Gatsby Test Site
+subheading: A Gatsby + Netlify CMS Test Site
 mainpitch:
   title: Lorem Ipsum
   description: >-
