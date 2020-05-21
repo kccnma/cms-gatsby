@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: KCC CM
+title: New Media Arts
 image: /img/home-jumbotron.jpg
-heading: KCC CM
+heading: KCC NMA
 subheading: A Gatsby + Netlify CMS Test Site
 mainpitch:
-  title: Lorem Ipsum
+  title: Gatsby (React-based SSG) + Netlify CMS
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Edited via
     netlify's online cms admin ui.
