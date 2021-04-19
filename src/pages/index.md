@@ -21,7 +21,7 @@ intro:
         ut est semper varius.
     - image: /img/coffee-gear.png
       text: >-
-        Aloha. Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
+        Aloha. yarn Sed at nisl eget quam fringilla tempus. Morbi pretium libero nec ligula
         rhoncus vestibulum. Duis consequat, arcu eu venenatis rhoncus, nunc
         lectus condimentum sem, non pharetra nisl lorem eu ante. Nam viverra est
         quam, id posuere lacus gravida sed. Cras semper tortor ut est semper
